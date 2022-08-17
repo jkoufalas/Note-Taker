@@ -18,29 +18,38 @@ To clear the note area so a new note can be entered the user can click the plus 
 
 ## Table of Contents
 
-- [GitHub Link](#link)
+- [GitHub Link](#git-link)
+- [Heroku Live Link](#heroku-live-link)
 - [Installation Instructions](#install-instructions)
 - [Executing Instructions](#)
 - [Screenshot](#Screenshot)
 ---
 
-## Link
+## Git Link
 
 The link to the GitHub repository of the assignment is <br>
-[https://github.com/jkoufalas/Professional-README-Generator](https://github.com/jkoufalas/Professional-README-Generator)
+[https://github.com/jkoufalas/Note-Taker](https://github.com/jkoufalas/Note-Taker)
 
 ---
 
+## Heroku Live Link
+
+The link to a running version of the application <br>
+[https://github.com/jkoufalas/Professional-README-Generator](https://github.com/jkoufalas/Professional-README-Generator)
+
+
 ## Install Instructions
 
-The user needs to install the dependancies of the inquirer package 
+The user needs to install the dependancies of express js 
 
 ```
-npm i inquirer@8.2.4
+npm i
 ```
 ---
 
 ## Executing Instructions
+
+For the server side express js to run the following 
 
 ```
 node index.js
