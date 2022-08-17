@@ -35,7 +35,7 @@ The link to the GitHub repository of the assignment is <br>
 ## Heroku Live Link
 
 The link to a running version of the application <br>
-[https://github.com/jkoufalas/Professional-README-Generator](https://github.com/jkoufalas/Professional-README-Generator)
+[https://mighty-coast-61829.herokuapp.com/](https://mighty-coast-61829.herokuapp.com/)
 
 
 ## Install Instructions
