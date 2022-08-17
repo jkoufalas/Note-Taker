@@ -54,10 +54,9 @@ For the server side express js to run the following
 ```
 node index.js
 ```
-
-Follow the prompts to include the information for the README
-
 ---
 ## Screenshot
 
-[Link to Demo](https://youtu.be/-wKykXO7TTw)
+![Homepage Screen](./assets/images/homescreen.png)
+
+![Notes Screen](./assets/images/notes.png)
